@@ -1,5 +1,5 @@
 # KJGulane.github.io
 
-Welcome to my first Coding experience
+Welcome to My Coding Journey
 
-This Page is where I store my Codes, Projects etc._
+This Page is where I store my Projects etc._
